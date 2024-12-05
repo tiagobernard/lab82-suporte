@@ -3,14 +3,14 @@
 ## Verifique a senha pro visória enviada por Whatsapp.
  
 ## 1. Acessar o Webmail do cPanel
-*1. Acesse o Webmail:*
+__1. Acesse o Webmail:__
    - No navegador, digite: https://webmail.seudominio.com.br ou [clique aqui](https://webmail.lab82.dev)
 
-*2. Faça o login:*
+__2. Faça o login:*__
    - Informe o endereço de e-mail completo (ex.: email@seudomio.com.br).
    - Insira a senha correspondente.
 
-*3. Escolha a interface do Webmail:*
+__3. Escolha a interface do Webmail:__
    - Após o login, será solicitado que escolha entre opções como Roundcube, Horde ou RainLoop. Escolha a interface preferida (normalmente o Roundcube é mais intuitivo). Para escolhe-lo, clique no botão em azul "Open".
 
 ## 2. Trocar a Senha do E-mail
@@ -20,28 +20,28 @@
 4. Insira a nova senha e confirme. Clique em Salvar.
 ---
 
- 3. Configurar o Outlook
+ ## 3. Configurar o Outlook
  Antes de Começar:
 - Você precisará das configurações de servidor do e-mail:
-  - Servidor de entrada (IMAP): `mail.nisano.com.br`
-  - Servidor de saída (SMTP): `mail.nisano.com.br`
+  - __Servidor de entrada (IMAP):__ mail.seudominio.com.br
+  - __Servidor de saída (SMTP):__ mail.seudominio.com.br
   - Portas:
-    - IMAP: 993 (SSL/TLS ativo)
-    - SMTP: 465 (SSL/TLS ativo) ou 587 (STARTTLS ativo)
+    - __IMAP:__ 993 (SSL/TLS ativo)
+    - __SMTP:__ 465 (SSL/TLS ativo) ou 587 (STARTTLS ativo)
   - Nome de usuário: Endereço de e-mail completo.
   - Senha: A senha configurada para o e-mail.
 
- No Outlook:
-1. Adicione uma nova conta de e-mail:
+ __No Outlook:__
+__1. Adicione uma nova conta de e-mail:__
    - Abra o Outlook.
    - Vá em Arquivo > Adicionar Conta.
 
-2. Configuração automática:
+__2. Configuração automática:__
    - Insira o e-mail e clique em Conectar.
    - Insira a senha e clique em Concluir.
    - Caso isso não funcione, siga para a configuração manual.
 
-3. Configuração manual:
+__3. Configuração manual:__
    - Escolha Configuração Avançada > IMAP/POP.
    - Preencha os dados:
      - Tipo de conta: IMAP (recomendado) ou POP3.
@@ -49,7 +49,7 @@
      - Servidor de saída: mail.nisano.com.br | Porta: 465 (SMTP).
      - Ative a opção Exigir autenticação do servidor de saída.
 
-4. Teste as configurações:
+__4. Teste as configurações:__
    - Clique em Avançar. O Outlook verificará as configurações.
    - Se tudo estiver correto, clique em Concluir.
 ---
