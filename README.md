@@ -45,8 +45,8 @@ __3. Configuração manual:__
    - Escolha Configuração Avançada > IMAP/POP.
    - Preencha os dados:
      - Tipo de conta: IMAP (recomendado) ou POP3.
-     - Servidor de entrada: mail.nisano.com.br | Porta: 993 (IMAP).
-     - Servidor de saída: mail.nisano.com.br | Porta: 465 (SMTP).
+     - Servidor de entrada: mail.seudominio.com.br | Porta: 993 (IMAP).
+     - Servidor de saída: mail.seudominio.com.br | Porta: 465 (SMTP).
      - Ative a opção Exigir autenticação do servidor de saída.
 
 __4. Teste as configurações:__
