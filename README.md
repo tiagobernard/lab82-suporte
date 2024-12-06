@@ -14,3 +14,6 @@ __Após ser informado que seu domínio foi configurado em nosso servidor, copie 
 
 __Servidor 1:__ `ns1.lab82.dev`  
 __Servidor 2:__ `ns2.lab82.dev`  
+
+---  
+Caso o que procura não esteja listado nos tópicos acima, entre em contato conosco através do [__WhatsApp__](https://gera.bio/WhatsLab82)
