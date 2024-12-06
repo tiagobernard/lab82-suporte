@@ -1,8 +1,6 @@
 # Passo-apasso para configurar o Outlook e celulares com os e-mails da Lab82
----
 
 ## Verifique a senha provisória enviada por Whatsapp.
----
 
  ## 3. Configurando
  Antes de Começar:
@@ -38,4 +36,4 @@ __4. Teste as configurações:__
    - Se tudo estiver correto, clique em Concluir.
 ---
 
-Caso precise de suporte adicional ou queira um tutorial mais específico, estou à disposição! 😊
+Caso precise de suporte adicional ou queira um tutorial mais específico, estamos à disposição! 😊
