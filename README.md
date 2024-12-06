@@ -13,6 +13,4 @@ Os servidores DNS da Lab82 são responsáveis por fazer com que o seu domínio p
 __Após ser informado que seu domínio foi configurado em nosso servidor, insira os DNS da Lab82 no registrador do seu domínio__
 
 __Servidor 1:__ `ns1.lab82.dev`  
-<div><button onclick="navigator.clipboard.writeText('print(\"Olá, Mundo!\")')" style="position: absolute; top: 0; right: 0;">Copiar</button></div>  
-
 __Servidor 2:__ `ns2.lab82.dev`  
