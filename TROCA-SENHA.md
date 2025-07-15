@@ -1,6 +1,6 @@
 # Passo-apasso para troca de senha dos e-mails da Lab82
 
-## Verifique a senha pro visória enviada por Whatsapp.
+## Verifique a senha provisória enviada por Whatsapp.
 
 ## 2. Trocando a senha
 1. Acesse o webmail conforme o passo anterior.
